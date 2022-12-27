@@ -2,9 +2,7 @@
 
 
 
-<
-
-h3 align="left">
+<h3 align="left">
 
 
 Conéctate conmigo: </h3>
